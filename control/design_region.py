@@ -12,6 +12,7 @@ Alec J Dryden
 Kenneth S Echevaria
 Akara Hay
 Dane P Webb
+Marcelino Figueroa
 
 Date (initial): 2 October 2019
 """
